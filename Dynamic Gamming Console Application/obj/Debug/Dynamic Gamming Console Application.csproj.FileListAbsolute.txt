@@ -1,0 +1,7 @@
+C:\Users\Asfar\source\repos\Dynamic Gamming Console Application\Dynamic Gamming Console Application\bin\Debug\Dynamic Gamming Console Application.exe.config
+C:\Users\Asfar\source\repos\Dynamic Gamming Console Application\Dynamic Gamming Console Application\bin\Debug\Dynamic Gamming Console Application.exe
+C:\Users\Asfar\source\repos\Dynamic Gamming Console Application\Dynamic Gamming Console Application\bin\Debug\Dynamic Gamming Console Application.pdb
+C:\Users\Asfar\source\repos\Dynamic Gamming Console Application\Dynamic Gamming Console Application\obj\Debug\Dynamic Gamming Console Application.csprojAssemblyReference.cache
+C:\Users\Asfar\source\repos\Dynamic Gamming Console Application\Dynamic Gamming Console Application\obj\Debug\Dynamic Gamming Console Application.csproj.CoreCompileInputs.cache
+C:\Users\Asfar\source\repos\Dynamic Gamming Console Application\Dynamic Gamming Console Application\obj\Debug\Dynamic Gamming Console Application.exe
+C:\Users\Asfar\source\repos\Dynamic Gamming Console Application\Dynamic Gamming Console Application\obj\Debug\Dynamic Gamming Console Application.pdb
